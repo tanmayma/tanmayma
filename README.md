@@ -44,8 +44,8 @@
 
 # 📚 Currently Learning
 
-🌱 Advanced JavaScript  
-🌐 Full Stack Development  
+🌱 Java Full Stack Development  
+🧪 Software Testing  
 🗄️ Database Design & Optimization  
 
 ---
